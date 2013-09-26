@@ -3,7 +3,7 @@ ALLib
 
 ALLib is the first fuzzy logic library that is publicly available in Objective C.
 
-http://www.approximatelogic.com
+http://www.approximatelogic.com/documentation.html
 
 A fuzzy system represents one particular problem that you want to solve in your app using fuzzy logic. In order to use a fuzzy system to solve problems you first need to define the system and then prepare it.
 
