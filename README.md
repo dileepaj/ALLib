@@ -36,12 +36,12 @@ outputUniverse.values = (NSMutableArray *) @[zero, one];
 
 Here nf is a convenience macro that makes an NSNumber with a float value. It is defined in the library as follows.
 
-#define nf(x)       [NSNumber numberWithDouble:x]
+define nf(x)       [NSNumber numberWithDouble:x]
 
 zero and one are also defined for convenience as follows.
 
-#define zero        nf(0.0)
-#define one         nf(1.0)
+define zero        nf(0.0)
+define one         nf(1.0)
 
 After that we can define the fuzzy variables involved. As mentioned earlier there are 3 input variables (experience, education and salary expectation) and 1 output variable (decision). The 3 input variables belong to the input universe whereas the output variable belongs to output universe.
 
